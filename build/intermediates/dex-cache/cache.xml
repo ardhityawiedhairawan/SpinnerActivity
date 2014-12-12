@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android\aplikasi\SpinnerActivity-master\SpinnerActivity-master\spinnerActivity\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="D:\android\aplikasi\SpinnerActivity-master\SpinnerActivity-master\spinnerActivity\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-c4b2e9ad35d4d81cc9072091f67ea098451dd742.jar" />
+    </item>
+    <item
+        jar="D:\android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="D:\android\aplikasi\SpinnerActivity-master\SpinnerActivity-master\spinnerActivity\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-fa1c07f61feec446e19d3831748a8c5252d195cc.jar" />
+    </item>
+    <item
+        jar="D:\android\aplikasi\SpinnerActivity-master\SpinnerActivity-master\spinnerActivity\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="D:\android\aplikasi\SpinnerActivity-master\SpinnerActivity-master\spinnerActivity\app\build\intermediates\pre-dexed\debug\classes-384f41b3943b3e2b39d5031bd09fe09d9421b8c5.jar" />
+    </item>
+    <item
+        jar="D:\android\aplikasi\SpinnerActivity-master\SpinnerActivity-master\spinnerActivity\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="D:\android\aplikasi\SpinnerActivity-master\SpinnerActivity-master\spinnerActivity\app\build\intermediates\pre-dexed\debug\classes-3c0bde69040d0cf3fa4b59444a12188022fb8055.jar" />
+    </item>
+
+</items>
